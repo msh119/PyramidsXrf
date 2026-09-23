@@ -1,0 +1,8 @@
+{
+  "name": "حاسبة سبك وتحييف الذهب - بيراميدز جولد",
+  "description": "تطبيق ويب متقدم لسبك وتحييف الذهب وحساب التزنكة والنقاء والعيارات برعاية شركة بيراميدز جولد للمعادن والتطوير - أسوان",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
