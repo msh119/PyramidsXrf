@@ -111,13 +111,13 @@ export const ServicesSection: React.FC = () => {
         </div>
 
         <a
-          href="https://wa.me/201000000000"
+          href="https://wa.me/201111612026"
           target="_blank"
           rel="noopener noreferrer"
           className="px-4 py-2 rounded-lg gold-gradient-btn text-xs font-bold flex items-center gap-2 whitespace-nowrap"
         >
           <i className="fa-brands fa-whatsapp text-sm"></i>
-          <span>تواصل مع فرع أسوان</span>
+          <span>تواصل مع فرع دراو أسوان</span>
         </a>
       </div>
     </section>

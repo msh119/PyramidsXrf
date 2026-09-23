@@ -197,7 +197,7 @@ export const StandardizingSection: React.FC<StandardizingSectionProps> = ({ resu
           </div>
 
           <div className="pt-3 border-t border-white/10 text-xs text-white/70">
-            هذا هو وزن الذهب الصافي المحيف الذي يعادل كمية الذهب الخالص لديك (<span className="text-[#f5d36e] font-mono font-bold">{fineGold24.toFixed(3)} جم</span>) عند تحويلها بالكامل لعيار {targetName}.
+            هذا هو وزن الذهب الصافي المحيف الذي يعادل كمية الذهب الخالص لديك (<span className="text-[#f5d36e] font-mono font-bold">{fineToUse.toFixed(3)} جم</span>) عند تحويلها بالكامل لعيار {targetName}.
           </div>
         </div>
 
